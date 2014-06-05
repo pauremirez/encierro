@@ -1,0 +1,32 @@
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:0.5.+'
+    }
+}
+apply plugin: 'android'
+
+repositories {
+    mavenCentral()
+}
+
+
+dependencies {
+    compile files('libs/gcm.jar')
+    compile files('libs/android-support-v4.jar')
+    compile files('libs/ksoap2.jar')
+}
+
+android {
+    compileSdkVersion 16
+    buildToolsVersion '17.0.0'
+    defaultConfig {
+        minSdkVersion 8
+        targetSdkVersion 15
+    }
+    productFlavors {
+    }
+}
+

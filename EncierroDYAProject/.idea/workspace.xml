@@ -1,0 +1,1941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayoutPreviewToolWindow">
+    <option name="state">
+      <GlobalState />
+    </option>
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <target>android-10</target>
+      </config>
+    </shared>
+    <layouts>
+      <layout url="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/add_injured.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/ambulance_main.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/edit_injured.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/old.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+      <layout url="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/transmisions_menu.xml">
+        <config>
+          <theme>@style/AppTheme</theme>
+        </config>
+      </layout>
+    </layouts>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ba901af-ea3f-42fe-9721-eb969ecbc3f9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/abuela.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/abuelo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/ajustes_android.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/ambulance.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/libs/android-support-v4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/boy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/buttonadd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/buttoncancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/cargado.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-ldpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-mdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-xhdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-xxhdpi" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/en_camino.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/entre30_50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/entre30_50_azul.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/exit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/fail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/fiesta.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/flagblack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/flaggreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/flagred.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/flagwhite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/flagyellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/flechablue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/flecharoja.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/libs/gcm.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/girl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/green_button.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/hombre.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/hombre_adulto.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/hospi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/hospital.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/ic_action_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-mdpi/ic_action_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-xhdpi/ic_action_search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/ic_launcher-web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/jeringuilla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/libs/ksoap2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/libs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/mas50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/mas50_azul.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/menos30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/menos30_azul.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/menu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/mujer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/mujer_adulta.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/red_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/save.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/success.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/toro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/urgencia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/vallado.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values-large" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values-sw600dp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values-sw720dp-land" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values-v11" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values-v14" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/AlertDialogManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/AllInjuredActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/CommonUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/ConnectionDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/EditInjuredActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/EncierroDYA.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYAProject.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/GCMClient.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GCMClientProject.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/GCMIntentService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/GetCurrentLocation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/JSONParser.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/LoginActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/MainActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/MenuActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredGenderActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredOldActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredSymptomActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/RegisterActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/ServerUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/SettingsActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/SpecialAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/SpinnerActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/WakeLocker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/menu/activity_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/add_injured.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/all_injured.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/ambulance_main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/btn3050.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/btnmas50.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/btnmenos30.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/customborder.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/datos_paciente.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values-large/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values-sw600dp/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values-sw720dp-land/dimens.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/edit_injured.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/gender.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/list_injured.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/login.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/menu/login.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/menu/main.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/old.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/register.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/status_cargado.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/status_en_camino.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/status_hospital.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/status_libre.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/status_urgencia.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values/strings_activity_login.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values-v11/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/values-v14/styles.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/transmisions_menu.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="GCMClient.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint url="file://$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/GetCurrentLocation.java" line="88" class="com.navarra.dya.encierro.GetCurrentLocation.MyLocationListener" package="com.navarra.dya.encierro">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredSymptomActivity.java" line="460" class="com.navarra.dya.encierro.NewInjuredSymptomActivity.NewInjured" package="com.navarra.dya.encierro">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredSymptomActivity.java" line="457" class="com.navarra.dya.encierro.NewInjuredSymptomActivity.NewInjured" package="com.navarra.dya.encierro">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredSymptomActivity.java" line="78" class="com.navarra.dya.encierro.NewInjuredSymptomActivity" package="com.navarra.dya.encierro">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredSymptomActivity.java" line="108" class="com.navarra.dya.encierro.NewInjuredSymptomActivity$3" package="com.navarra.dya.encierro">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="GCMClient" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="edit_injured.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/edit_injured.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.34" vertical-offset="1" max-vertical-offset="7242">
+              <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_injured.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/add_injured.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="7208">
+              <caret line="137" column="12" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.16" vertical-offset="561" max-vertical-offset="2023">
+              <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+              <folding>
+                <element signature="e#1623#1641#0" expanded="true" />
+                <element signature="e#2219#2248#0" expanded="true" />
+                <element signature="e#2363#2383#0" expanded="true" />
+                <element signature="e#2503#2525#0" expanded="true" />
+                <element signature="e#2642#2661#0" expanded="true" />
+                <element signature="e#2782#2805#0" expanded="true" />
+                <element signature="e#2913#2942#0" expanded="true" />
+                <element signature="e#3054#3078#0" expanded="true" />
+                <element signature="e#3192#3219#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradle-wrapper.properties" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="221">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/EncierroDYA/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="AndroidStudioProjects" />
+              <option name="path" value="$PROJECT_DIR$/.." />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="AndroidStudioProjects" />
+                <option name="path" value="$PROJECT_DIR$/.." />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="EncierroDYAProject" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value=":EncierroDYA" />
+                <option name="path" value="$PROJECT_DIR$/EncierroDYA" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="EncierroDYAProject" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="GCMClientProject" />
+              <option name="path" value="$PROJECT_DIR$/../GCMClientProject" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="GCMClientProject" />
+                <option name="path" value="$PROJECT_DIR$/../GCMClientProject" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="setupBuild" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/EncierroDYA">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the Android dependencies of the project" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="androidDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all variants of all applications and secondary packages." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Debug builds" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="assembleDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles all Release builds" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="assembleRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the Test build for the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="assembleTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="compileDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="compileDebugAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="compileDebugRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="compileLint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="compileRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="compileReleaseAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="compileReleaseRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="compileTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="compileTestAidl" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="compileTestRenderscript" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks on currently connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="connectedCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs and runs the tests for Build 'Debug' on connected devices." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="connectedInstrumentTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all device checks using Device Providers and Test Servers." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="deviceCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="dexDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="dexRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="dexTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="generateDebugBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="generateDebugSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="generateReleaseBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="generateReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="generateTestBuildConfig" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="generateTestSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="installDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Installs the Test build for the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="installTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs lint on all variants." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="lint" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="lintDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="lintRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="lintTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="mergeDebugAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="mergeDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="mergeReleaseAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="mergeReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="mergeTestAssets" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="mergeTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="packageDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="packageRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="packageTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="preBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="preDebugBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="preReleaseBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="preTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="prepareDebugDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="prepareReleaseDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="prepareTestDependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="processDebugJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="processDebugManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="processDebugResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="processReleaseJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="processReleaseManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="processReleaseResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="processTestJavaRes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="processTestTestManifest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the signing info for each variant" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="signingReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstall all applications." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="uninstallAll" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="uninstallDebug" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Release build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="uninstallRelease" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uninstalls the Test build for the Debug build" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="uninstallTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/EncierroDYA" />
+                <option name="name" value="validateDebugSigning" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4136030964139" />
+        <entry key="C:\Documents and Settings\Mikel\AndroidStudioProjects" value="1377333953609" />
+        <entry key="C:\Documents and Settings\Mikel\AndroidStudioProjects\EncierroDYAProject" value="1375869585968" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/MainActivity.java" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/MenuActivity.java" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/status_cargado.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/status_en_camino.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/status_hospital.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/status_urgencia.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/ambulance_main.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/transmisions_menu.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/list_injured.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/datos_paciente.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/gender.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/old.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/add_injured.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/res/layout/edit_injured.xml" />
+        <option value="$PROJECT_DIR$/EncierroDYA/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+        <option value="$PROJECT_DIR$/EncierroDYA/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1288" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android Lint</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AndroidLintContentDescription</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="false" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GCMClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GCMClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidStudioProjects" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GCMClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidStudioProjects" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EncierroDYAProject" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GCMClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidStudioProjects" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EncierroDYAProject" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gradle" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wrapper" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GCMClient" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AndroidStudioProjects" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EncierroDYAProject" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EncierroDYA" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Android40" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.lastSelected" value="preferences.sourceCode" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="android.project.structure.last.selected" value="EncierroDYA" />
+    <property name="android.project.structure.proportion" value="0.15" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/gradle" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.avilyne.android.gcmclient" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Documents and Settings\Mikel\AndroidStudioProjects\EncierroDYAProject\EncierroDYA\src\main\res\drawable-hdpi" />
+      <recent name="C:\Documents and Settings\Mikel\AndroidStudioProjects\EncierroDYAProject\EncierroDYA\src\main\res" />
+      <recent name="C:\Documents and Settings\Mikel\AndroidStudioProjects\EncierroDYAProject\EncierroDYA\src\main\java\com\navarra\dya\encierro" />
+      <recent name="C:\Documents and Settings\Mikel\AndroidStudioProjects\GCMClientProject\GCMClient\src\main\java\com\avilyne\android\gcmclient" />
+      <recent name="C:\Documents and Settings\Mikel\AndroidStudioProjects\GCMClientProject\GCMClient\src\main\res\drawable-hdpi" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.avilyne.android.gcmclient" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Documents and Settings\Mikel\AndroidStudioProjects\EncierroDYAProject\EncierroDYA\src\main\java\com\navarra\dya\encierro" />
+      <recent name="C:\Documents and Settings\Mikel\AndroidStudioProjects\GCMClientProject\GCMClient\src\main\java\com.login" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android Application.EncierroDYA">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="false" name="EncierroDYA" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="EncierroDYA" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GCMClient" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="GCMClient" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <RunnerSettings RunnerId="AndroidDebugRunner" />
+      <ConfigurationWrapper RunnerId="AndroidDebugRunner" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Android Application.EncierroDYA" />
+      <item index="1" class="java.lang.String" itemvalue="Android Application.GCMClient" />
+    </list>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration>C:\Documents and Settings\Mikel\Datos de programa\Subversion</configuration>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Documents and Settings\Mikel\AndroidStudioProjects" />
+          <option name="myCopyRoot" value="C:\Documents and Settings\Mikel\AndroidStudioProjects" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Documents and Settings\Mikel\AndroidStudioProjects" />
+          <option name="myCopyRoot" value="C:\Documents and Settings\Mikel\AndroidStudioProjects\EncierroDYAProject" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Documents and Settings\Mikel\AndroidStudioProjects\EncierroDYAProject\.idea" />
+          <option name="myCopyRoot" value="C:\Documents and Settings\Mikel\AndroidStudioProjects\EncierroDYAProject\.idea" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Documents and Settings\Mikel\AndroidStudioProjects\EncierroDYAProject\EncierroDYA" />
+          <option name="myCopyRoot" value="C:\Documents and Settings\Mikel\AndroidStudioProjects\EncierroDYAProject\EncierroDYA" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\Documents and Settings\Mikel\AndroidStudioProjects" />
+          <option name="myCopyRoot" value="C:\Documents and Settings\Mikel\AndroidStudioProjects" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ba901af-ea3f-42fe-9721-eb969ecbc3f9" name="Default" comment="" />
+      <created>1375869586609</created>
+      <updated>1375869586609</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1288" height="778" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32824427" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18660288" sideWeight="0.5923825" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31908396" sideWeight="0.41033927" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31908396" sideWeight="0.41033927" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31908396" sideWeight="0.58966076" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977098" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.27113238" sideWeight="0.6588331" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.6704" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32333875" sideWeight="0.12280702" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18578352" sideWeight="0.8133971" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32376397" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33306322" sideWeight="0.72886765" order="3" side_tool="false" content_ui="tabs" x="71" y="168" width="1088" height="578" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32229403" sideWeight="0.8133971" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32376397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="96" y="96" width="1088" height="578" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.37001595" sideWeight="0.4076175" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.6704" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24797407" sideWeight="0.46570972" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31928688" sideWeight="0.6299841" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32376397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.53429025" sideWeight="0.5923825" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32057416" sideWeight="0.5899514" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2784" sideWeight="0.6588331" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5167464" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Initial import" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial import" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/GetCurrentLocation.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredSymptomActivity.java</url>
+          <line>460</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredSymptomActivity.java</url>
+          <line>457</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredSymptomActivity.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/EncierroDYA/src/main/java/com/navarra/dya/encierro/NewInjuredSymptomActivity.java</url>
+          <line>108</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/edit_injured.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="7242">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/add_injured.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="7208">
+          <caret line="137" column="12" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="2023">
+          <caret line="50" column="44" selection-start-line="50" selection-start-column="44" selection-end-line="50" selection-end-column="44" />
+          <folding>
+            <element signature="e#1623#1641#0" expanded="true" />
+            <element signature="e#2219#2248#0" expanded="true" />
+            <element signature="e#2363#2383#0" expanded="true" />
+            <element signature="e#2503#2525#0" expanded="true" />
+            <element signature="e#2642#2661#0" expanded="true" />
+            <element signature="e#2782#2805#0" expanded="true" />
+            <element signature="e#2913#2942#0" expanded="true" />
+            <element signature="e#3054#3078#0" expanded="true" />
+            <element signature="e#3192#3219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/edit_injured.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="7242">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/add_injured.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="7208">
+          <caret line="137" column="12" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1634" max-vertical-offset="2023">
+          <caret line="109" column="36" selection-start-line="109" selection-start-column="36" selection-end-line="109" selection-end-column="36" />
+          <folding>
+            <element signature="e#1623#1641#0" expanded="true" />
+            <element signature="e#2219#2248#0" expanded="true" />
+            <element signature="e#2363#2383#0" expanded="true" />
+            <element signature="e#2503#2525#0" expanded="true" />
+            <element signature="e#2642#2661#0" expanded="true" />
+            <element signature="e#2782#2805#0" expanded="true" />
+            <element signature="e#2913#2942#0" expanded="true" />
+            <element signature="e#3054#3078#0" expanded="true" />
+            <element signature="e#3192#3219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/edit_injured.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7242">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/add_injured.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2142" max-vertical-offset="7208">
+          <caret line="137" column="12" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/all_injured.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17708333" vertical-offset="0" max-vertical-offset="576">
+          <caret line="6" column="58" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/ambulance_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.088541664" vertical-offset="0" max-vertical-offset="2618">
+          <caret line="3" column="34" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#769#787#0" expanded="false" />
+            <element signature="e#816#839#0" expanded="false" />
+            <element signature="e#1144#1167#0" expanded="false" />
+            <element signature="e#1193#1211#0" expanded="false" />
+            <element signature="e#2055#2078#0" expanded="false" />
+            <element signature="e#2429#2452#0" expanded="false" />
+            <element signature="e#2474#2499#0" expanded="false" />
+            <element signature="e#2716#2739#0" expanded="false" />
+            <element signature="e#2950#2969#0" expanded="false" />
+            <element signature="e#3003#3025#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/datos_paciente.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1545293" vertical-offset="15" max-vertical-offset="10761">
+          <caret line="6" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#650#668#0" expanded="false" />
+            <element signature="e#701#724#0" expanded="false" />
+            <element signature="e#1061#1084#0" expanded="false" />
+            <element signature="e#1114#1132#0" expanded="false" />
+            <element signature="e#1325#1344#0" expanded="false" />
+            <element signature="e#1967#1983#0" expanded="false" />
+            <element signature="e#2997#3015#0" expanded="false" />
+            <element signature="e#5424#5440#0" expanded="false" />
+            <element signature="e#6400#6413#0" expanded="false" />
+            <element signature="e#7439#7454#0" expanded="false" />
+            <element signature="e#9192#9209#0" expanded="false" />
+            <element signature="e#10208#10226#0" expanded="false" />
+            <element signature="e#11302#11320#0" expanded="false" />
+            <element signature="e#12396#12414#0" expanded="false" />
+            <element signature="e#13489#13507#0" expanded="false" />
+            <element signature="e#14582#14600#0" expanded="false" />
+            <element signature="e#15668#15686#0" expanded="false" />
+            <element signature="e#16755#16773#0" expanded="false" />
+            <element signature="e#17858#17876#0" expanded="false" />
+            <element signature="e#18974#18992#0" expanded="false" />
+            <element signature="e#20083#20098#0" expanded="false" />
+            <element signature="e#21175#21190#0" expanded="false" />
+            <element signature="e#22267#22282#0" expanded="false" />
+            <element signature="e#23358#23373#0" expanded="false" />
+            <element signature="e#24453#24468#0" expanded="false" />
+            <element signature="e#25545#25559#0" expanded="false" />
+            <element signature="e#27208#27226#0" expanded="false" />
+            <element signature="e#28245#28262#0" expanded="false" />
+            <element signature="e#29305#29327#0" expanded="false" />
+            <element signature="e#30435#30463#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/register.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1071">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/status_cargado.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46875" vertical-offset="478" max-vertical-offset="1054">
+          <caret line="44" column="8" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/login.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1241">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/list_injured.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11805555" vertical-offset="51" max-vertical-offset="10948">
+          <caret line="7" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#651#669#0" expanded="false" />
+            <element signature="e#702#725#0" expanded="false" />
+            <element signature="e#1062#1085#0" expanded="false" />
+            <element signature="e#1115#1133#0" expanded="false" />
+            <element signature="e#1539#1555#0" expanded="false" />
+            <element signature="e#2376#2394#0" expanded="false" />
+            <element signature="e#3137#3153#0" expanded="false" />
+            <element signature="e#4164#4180#0" expanded="false" />
+            <element signature="e#5036#5052#0" expanded="false" />
+            <element signature="e#5789#5802#0" expanded="false" />
+            <element signature="e#6573#6588#0" expanded="false" />
+            <element signature="e#7975#7992#0" expanded="false" />
+            <element signature="e#8835#8853#0" expanded="false" />
+            <element signature="e#9777#9795#0" expanded="false" />
+            <element signature="e#10719#10737#0" expanded="false" />
+            <element signature="e#11660#11678#0" expanded="false" />
+            <element signature="e#12601#12619#0" expanded="false" />
+            <element signature="e#13535#13553#0" expanded="false" />
+            <element signature="e#14470#14488#0" expanded="false" />
+            <element signature="e#15421#15439#0" expanded="false" />
+            <element signature="e#16385#16403#0" expanded="false" />
+            <element signature="e#17342#17357#0" expanded="false" />
+            <element signature="e#18282#18297#0" expanded="false" />
+            <element signature="e#19222#19237#0" expanded="false" />
+            <element signature="e#20161#20176#0" expanded="false" />
+            <element signature="e#21104#21119#0" expanded="false" />
+            <element signature="e#22044#22058#0" expanded="false" />
+            <element signature="e#23326#23344#0" expanded="false" />
+            <element signature="e#24267#24284#0" expanded="false" />
+            <element signature="e#25255#25277#0" expanded="false" />
+            <element signature="e#26309#26337#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/gender.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.059027776" vertical-offset="0" max-vertical-offset="1122">
+          <caret line="2" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#650#668#0" expanded="false" />
+            <element signature="e#701#724#0" expanded="false" />
+            <element signature="e#1061#1084#0" expanded="false" />
+            <element signature="e#1114#1132#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/old.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.9739584" vertical-offset="988" max-vertical-offset="2227">
+          <caret line="125" column="15" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#642#660#0" expanded="false" />
+            <element signature="e#693#716#0" expanded="false" />
+            <element signature="e#1053#1076#0" expanded="false" />
+            <element signature="e#1106#1124#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.113144755" vertical-offset="1479" max-vertical-offset="2176">
+          <caret line="91" column="42" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/transmisions_menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9409722" vertical-offset="716" max-vertical-offset="2890">
+          <caret line="74" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#1216#1234#0" expanded="false" />
+            <element signature="e#1267#1290#0" expanded="false" />
+            <element signature="e#1627#1650#0" expanded="false" />
+            <element signature="e#1680#1698#0" expanded="false" />
+            <element signature="e#2171#2194#0" expanded="false" />
+            <element signature="e#2224#2242#0" expanded="false" />
+            <element signature="e#2499#2517#0" expanded="false" />
+            <element signature="e#2550#2573#0" expanded="false" />
+            <element signature="e#2923#2946#0" expanded="false" />
+            <element signature="e#2968#2993#0" expanded="false" />
+            <element signature="e#3249#3272#0" expanded="false" />
+            <element signature="e#3718#3736#0" expanded="false" />
+            <element signature="e#3774#3796#0" expanded="false" />
+            <element signature="e#4023#4049#0" expanded="false" />
+            <element signature="e#4533#4551#0" expanded="false" />
+            <element signature="e#4585#4607#0" expanded="false" />
+            <element signature="e#4815#4836#0" expanded="false" />
+            <element signature="e#5344#5362#0" expanded="false" />
+            <element signature="e#5400#5422#0" expanded="false" />
+            <element signature="e#5637#5660#0" expanded="false" />
+            <element signature="e#5944#5962#0" expanded="false" />
+            <element signature="e#5996#6018#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/edit_injured.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.34" vertical-offset="1" max-vertical-offset="7242">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/layout/add_injured.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2329" max-vertical-offset="7208">
+          <caret line="137" column="12" selection-start-line="137" selection-start-column="12" selection-end-line="137" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../AndroidStudioProjects.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.028764805" vertical-offset="0" max-vertical-offset="591">
+          <caret line="1" column="37" selection-start-line="1" selection-start-column="37" selection-end-line="1" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/res/drawable-hdpi/exit.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="579">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.043037973" vertical-offset="0" max-vertical-offset="395">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.16" vertical-offset="561" max-vertical-offset="2023">
+          <caret line="45" column="35" selection-start-line="45" selection-start-column="35" selection-end-line="45" selection-end-column="35" />
+          <folding>
+            <element signature="e#1623#1641#0" expanded="true" />
+            <element signature="e#2219#2248#0" expanded="true" />
+            <element signature="e#2363#2383#0" expanded="true" />
+            <element signature="e#2503#2525#0" expanded="true" />
+            <element signature="e#2642#2661#0" expanded="true" />
+            <element signature="e#2782#2805#0" expanded="true" />
+            <element signature="e#2913#2942#0" expanded="true" />
+            <element signature="e#3054#3078#0" expanded="true" />
+            <element signature="e#3192#3219#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.76" vertical-offset="0" max-vertical-offset="221">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EncierroDYA/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android 4.1.2 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>GCMClient</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gcm</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+

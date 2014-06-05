@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="left">
+
+            <ImageButton
+                android:id="@+id/home_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/lbl_home"
+                android:padding="@dimen/padding_medium"
+                android:src="@drawable/home"
+                android:background="@null"
+                android:scaleType="fitEnd"/>
+
+            <TextView
+                android:id="@+id/lbl_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding_medium"
+                android:text="@string/lbl_home"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+
+
+
+
+
+
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="20dip"
+        android:paddingBottom="20dip"
+        android:gravity="center|top">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/imgMale30"
+            android:background="@drawable/boy"/>
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/btnMinus30"
+            android:background="@drawable/btnmenos30"/>
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/imgFemale30"
+            android:layout_gravity="center"
+            android:background="@drawable/girl" />
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:paddingTop="20dip"
+        android:paddingBottom="20dip">
+
+        <ImageView
+            android:layout_width="100dip"
+            android:layout_height="100dp"
+            android:id="@+id/imgMale3050"
+            android:layout_gravity="center"
+            android:background="@drawable/hombre_adulto" />
+
+        <ImageButton
+            android:id="@+id/btn3050"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/btn3050"/>
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/imgFemale3050"
+            android:layout_gravity="center"
+            android:background="@drawable/mujer_adulta" />
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingTop="20dip"
+        android:paddingBottom="20dip"
+        android:gravity="center|bottom">
+
+        <ImageView
+            android:layout_width="100dip"
+            android:layout_height="100dp"
+            android:id="@+id/imgMale50"
+            android:layout_gravity="center"
+            android:background="@drawable/abuelo" />
+
+        <ImageButton
+            android:id="@+id/btnPlus50"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/btnmas50"/>
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:id="@+id/imgFemale50"
+            android:layout_gravity="center"
+            android:background="@drawable/abuela" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical" >
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="left">
+
+            <ImageButton
+                android:id="@+id/home_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/lbl_home"
+                android:padding="@dimen/padding_medium"
+                android:src="@drawable/home"
+                android:background="@null"
+                android:scaleType="fitEnd"/>
+
+            <TextView
+                android:id="@+id/lbl_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding_medium"
+                android:text="@string/lbl_home"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+
+
+
+
+
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="48dp"
+        android:orientation="horizontal">
+
+    <RadioGroup android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:checkedButton="@+id/rdConscious">
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <RadioButton android:id="@+id/rbConscious"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:text="@string/conscious"
+                     android:paddingRight="8dip"
+                     android:onClick="onConsciousRadioButtonClicked"/>
+            <ImageView  android:id="@+id/imgConscious"
+                    android:layout_width="12dip"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/green"
+                    android:gravity="center"
+                android:paddingTop="8dip"/>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+            <RadioButton android:id="@+id/rbUnconscious"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/unconscious"
+                android:paddingRight="8dip"
+                android:onClick="onConsciousRadioButtonClicked"/>
+            <ImageView  android:id="@+id/imgUnconscious"
+                android:layout_width="12dip"
+                android:layout_height="wrap_content"
+                android:src="@drawable/red"
+                android:gravity="center"
+                android:paddingTop="8dip"/>
+        </LinearLayout>
+    </RadioGroup>
+
+
+        <RadioGroup android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:checkedButton="@+id/rdIsDead">
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <RadioButton android:id="@+id/rbDead"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/dead"
+                    android:paddingRight="8dip"
+                    android:onClick="onDeadRadioButtonClicked"/>
+                <ImageView  android:id="@+id/imgDead"
+                    android:layout_width="12dip"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/black"
+                    android:gravity="center"
+                    android:paddingTop="8dip"/>
+            </LinearLayout>
+        </RadioGroup>
+    </LinearLayout>
+
+    <TextView android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/symptom"
+        android:textStyle="bold|italic"/>
+
+    <LinearLayout android:layout_width="wrap_content"
+                  android:layout_height="wrap_content"
+                  android:orientation="horizontal" >
+
+        <LinearLayout android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:orientation="vertical" >
+
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <ImageView  android:id="@+id/imgGoring"
+                        android:layout_width="12dip"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/red"
+                        android:gravity="center"/>
+                <TextView android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/goring"
+                        android:paddingTop="8dip"
+                        android:paddingLeft="8dip"/>
+            </LinearLayout>
+
+            <CheckBox android:id="@+id/checkboxGoringHead"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/head"
+                      android:onClick="onGoringCheckboxClicked"/>
+            <CheckBox android:id="@+id/checkboxGoringChest"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/chest"
+                      android:onClick="onGoringCheckboxClicked"/>
+            <CheckBox android:id="@+id/checkboxGoringBack"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/back"
+                      android:onClick="onGoringCheckboxClicked"/>
+            <CheckBox android:id="@+id/checkboxGoringArms"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/arms"
+                      android:onClick="onGoringCheckboxClicked"/>
+            <CheckBox android:id="@+id/checkboxGoringLegs"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/legs"
+                      android:onClick="onGoringCheckboxClicked"/>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="wrap_content"
+                          android:layout_height="wrap_content"
+                          android:orientation="vertical" >
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <ImageView  android:id="@+id/imgBreak"
+                    android:layout_width="12dip"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/yellow"
+                    android:gravity="center"/>
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/fracture"
+                    android:paddingTop="8dip"
+                    android:paddingLeft="8dip"/>
+            </LinearLayout>
+
+            <CheckBox android:id="@+id/checkboxBreakHead"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/head"
+                      android:onClick="onBreakCheckboxClicked"/>
+            <CheckBox android:id="@+id/checkboxBreakChest"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/chest"
+                      android:onClick="onBreakCheckboxClicked"/>
+            <CheckBox android:id="@+id/checkboxBreakArms"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/arms"
+                      android:onClick="onBreakCheckboxClicked"/>
+            <CheckBox android:id="@+id/checkboxBreakLegs"
+                      android:layout_width="wrap_content"
+                      android:layout_height="wrap_content"
+                      android:text="@string/legs"
+                      android:onClick="onBreakCheckboxClicked"/>
+        </LinearLayout>
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/others"
+                    android:paddingTop="8dip"
+                    android:paddingLeft="8dip"/>
+
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <CheckBox android:id="@+id/checkboxTce"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tce"
+                    android:onClick="onTceCheckboxClicked"
+                    android:paddingRight="8dip"/>
+                <ImageView  android:id="@+id/imgTce"
+                    android:layout_width="12dip"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/red"
+                    android:gravity="center"
+                    android:paddingTop="8dip"/>
+            </LinearLayout>
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <CheckBox android:id="@+id/checkboxHemorrhages"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/hemorrhages"
+                    android:onClick="onHemorrhagesCheckboxClicked"
+                    android:paddingRight="8dip"/>
+                <ImageView  android:id="@+id/imgHemorrhages"
+                    android:layout_width="12dip"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/red"
+                    android:gravity="center"
+                    android:paddingTop="8dip"/>
+            </LinearLayout>
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <CheckBox android:id="@+id/checkboxPenetratingInjuryTx"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/txPenetratingInjury"
+                    android:onClick="onPenetratingInjuryTxCheckboxClicked"
+                    android:paddingRight="8dip"/>
+                <ImageView  android:id="@+id/imgPenetratingInjuryTx"
+                    android:layout_width="12dip"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/red"
+                    android:gravity="center"
+                    android:paddingTop="8dip"/>
+            </LinearLayout>
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <CheckBox android:id="@+id/checkboxPenetratingInjuryAbdomen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/abdomenPenetratingInjury"
+                    android:onClick="onPenetratingInjuryAbdomenCheckboxClicked"
+                    android:paddingRight="8dip"/>
+                <ImageView  android:id="@+id/imgPenetratingInjuryAbdomen"
+                    android:layout_width="12dip"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/red"
+                    android:gravity="center"
+                    android:paddingTop="8dip"/>
+            </LinearLayout>
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <CheckBox android:id="@+id/checkboxPolicontusion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/policontusion"
+                    android:onClick="onPolicontusionCheckboxClicked"
+                    android:paddingRight="8dip"
+                    android:paddingTop="8dip"/>
+                <ImageView  android:id="@+id/imgPolicontusion"
+                    android:layout_width="12dip"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/yellow"
+                    android:gravity="center"
+                    android:paddingTop="8dip"/>
+            </LinearLayout>
+            <LinearLayout android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" >
+                <CheckBox android:id="@+id/checkboxBruises"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/bruises"
+                    android:onClick="onBruisesCheckboxClicked"
+                    android:paddingRight="8dip"/>
+                <ImageView  android:id="@+id/imgBruises"
+                    android:layout_width="12dip"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/green"
+                    android:gravity="center"
+                    android:paddingTop="8dip"/>
+            </LinearLayout>
+        </LinearLayout>
+        <!-- para crear otra columna insertar otro LineaLayout -->
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="@dimen/padding_large"
+    android:gravity="center">
+
+    <Button android:id="@+id/btnAdvancedOptions"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/advancedOptions"/>
+
+    </LinearLayout>
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+        </LinearLayout>
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="40dip"
+        android:background="@drawable/customborder">
+        <LinearLayout android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/glasgow"
+                android:paddingLeft="20dip"
+                android:id="@+id/lblGlasgow"
+                android:visibility="gone"/>
+            <EditText
+                android:id="@+id/editTextGlasgow"
+                android:layout_width="60dip"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:visibility="gone"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bloodPresure"
+                android:paddingLeft="20dip"
+                android:id="@+id/lblBlood_Presure"
+                android:visibility="gone"/>
+            <EditText
+                android:id="@+id/editTextTA1"
+                android:layout_width="60dip"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:visibility="gone"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/blank"
+                android:id="@+id/blank3"
+                android:visibility="gone"/>
+            <EditText
+                android:id="@+id/editTextTA2"
+                android:layout_width="60dip"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:visibility="gone"/>
+        </LinearLayout>
+
+
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <CheckBox android:id="@+id/checkboxTrachealIntubation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tracheal_intubation"
+                android:onClick="onTrachealIntubationCheckboxClicked"
+                android:visibility="gone"/>
+            <CheckBox android:id="@+id/checkboxFace"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/face"
+                android:onClick="onFaceCheckboxClicked"
+                android:visibility="gone"/>
+         </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="@dimen/padding_large"
+        android:gravity="center">
+
+        <Button android:id="@+id/btnNewInjured"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/buttonadd"
+            android:drawablePadding="10dip"
+            android:text="@string/newInjured"/>
+
+        <Button android:id="@+id/btnCancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="10dip"
+            android:drawableLeft="@drawable/buttoncancel"
+            android:text="@string/cancel"/>
+
+    </LinearLayout>
+</LinearLayout>
