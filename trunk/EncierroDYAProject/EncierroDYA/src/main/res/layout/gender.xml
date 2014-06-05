@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent">
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="left">
+
+            <ImageButton
+                android:id="@+id/home_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/lbl_home"
+                android:padding="@dimen/padding_medium"
+                android:src="@drawable/home"
+                android:background="@null"
+                android:scaleType="fitEnd"/>
+
+            <TextView
+                android:id="@+id/lbl_home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="@dimen/padding_medium"
+                android:text="@string/lbl_home"
+                android:textStyle="bold"/>
+        </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+    <ImageButton
+        android:id="@+id/imgMan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/hombre"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/blank"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="20dip"/>
+
+    <ImageButton
+        android:id="@+id/imgWoman"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/mujer"
+        android:layout_gravity="center"/>
+</LinearLayout>
+    </LinearLayout>

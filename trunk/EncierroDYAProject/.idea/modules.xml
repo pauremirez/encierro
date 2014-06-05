@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AndroidStudioProjects.iml" filepath="$PROJECT_DIR$/../AndroidStudioProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncierroDYA/EncierroDYA.iml" filepath="$PROJECT_DIR$/EncierroDYA/EncierroDYA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncierroDYAProject.iml" filepath="$PROJECT_DIR$/EncierroDYAProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncierroDYA/GCMClient.iml" filepath="$PROJECT_DIR$/EncierroDYA/GCMClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GCMClientProject.iml" filepath="$PROJECT_DIR$/GCMClientProject.iml" />
+    </modules>
+  </component>
+</project>
+
